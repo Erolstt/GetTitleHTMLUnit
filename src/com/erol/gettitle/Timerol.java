@@ -1,4 +1,4 @@
-package com.capuatest.get;
+package com.erol.gettitle;
 
 public class Timerol {
 

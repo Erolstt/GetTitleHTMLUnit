@@ -1,4 +1,4 @@
-package com.capuatest.get;
+package com.erol.gettitle;
 
 import java.io.FileWriter;
 import java.io.IOException;

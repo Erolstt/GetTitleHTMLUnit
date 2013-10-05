@@ -1,12 +1,14 @@
-package com.capuatest.get;
+package com.erol.gettitle;
 
 
 import java.io.FileWriter;
 import java.io.IOException;
 
 
+
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
-import com.capuatest.get.Timerol;
+
+import com.erol.gettitle.Timerol;
 
 
 public class HTTPGetTitle {
